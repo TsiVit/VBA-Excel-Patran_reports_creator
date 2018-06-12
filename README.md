@@ -1,5 +1,7 @@
 # VBA-Excel-Patran_reports_creator
 
+Extracting reports from Patran by listing in Excel
+
 This repo could be helpfull for FE stress analysis only
 =
 This macro was created during the Blister Fiber Glass Sanwich panels Stress analysis and sizing. Panels were analyzed via Patran/Nastran application and simulated as laminate shell elements, bolts were simplified to bush elements.
